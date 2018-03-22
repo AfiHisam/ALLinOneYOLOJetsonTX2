@@ -13,7 +13,7 @@ To run the the build file
 
 $ ./install.sh
 
-And we're done for installation simple and sweet is it !
+...and we're done with installation, simple and sweet is it !
 
 ## Lets Run It
 

@@ -2,7 +2,7 @@
 Just a scripts to help you build and install all necessary dependencies to run YOLO in Jetson TX2
 
 Credit to jetsonhacks and pjreddie
-https://github.com/jetsonhacks
+https://github.com/jetsonhacks <br>
 https://github.com/pjreddie
 
 To run the the build file

@@ -5,6 +5,10 @@ Credit to jetsonhacks and pjreddie <br>
 https://github.com/jetsonhacks <br>
 https://github.com/pjreddie
 
+As usual 
+
+$ git clone https://github.com/AfiHisam/ALLinOneYOLOJetsonTX2.git
+
 To run the the build file
 
 $ ./install.sh

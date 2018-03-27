@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 #==============================================================================
 # Title: install.sh
 # Description: Install everything necessary for YOLO to be running in JetsonTX2.

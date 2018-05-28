@@ -11,7 +11,7 @@ $ git clone https://github.com/AfiHisam/ALLinOneYOLOJetsonTX2.git
 
 To run the the build file
 
-$ ./install.sh
+$ sh install.sh
 
 ...and we're done with installation, simple and sweet is it !
 

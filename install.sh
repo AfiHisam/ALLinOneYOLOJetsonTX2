@@ -11,7 +11,7 @@
 
 # Exit script if any command fails
 set -e 
-set -o pipefail
+
 
 if [ $# -ne 0 ]
   then

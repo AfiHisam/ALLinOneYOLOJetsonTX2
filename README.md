@@ -9,7 +9,15 @@ As usual
 
 $ git clone https://github.com/AfiHisam/ALLinOneYOLOJetsonTX2.git
 
-To run the the build file
+$ cd ALLinOneYOLOJetsonTX2
+
+$ sudo nvpmodel -m 2
+
+run the installation script  
+
+$ ./install.sh
+
+or
 
 $ sh install.sh
 

@@ -21,7 +21,7 @@ fi
 
 # Setup OpenCV 3.3
 
-sudo nvpmodel -m 2
+
 
 cd $HOME
 sudo apt-get install -y \
